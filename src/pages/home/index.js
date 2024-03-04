@@ -22,7 +22,7 @@ export function Home() {
             video: 'https://i.imgur.com/mPFvFyX.mp4',
             name: '@sujeitoprogramador',
             description: 'Aprendendo a trabalhar com Drag and Drop no React Native',
-        }
+        },
     ]
 
     const [showItem, setShowItem] = useState(feedItems[0])
